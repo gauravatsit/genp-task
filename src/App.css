@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  width:800px;
+  margin: 50px auto;
+}
+
+.form{
+  width: 300px;
+  margin: 0 auto;
+}
+
+.form .ms-Dropdown-container{
+  margin: 10px 0;
 }
 
 .App-logo {
